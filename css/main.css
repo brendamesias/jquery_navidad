@@ -1,0 +1,13 @@
+body {
+	font-family: 'Raleway', sans-serif !important;
+}
+.grad70 {
+    background: linear-gradient( rgb(0, 0, 0) 60%, rgb(238, 24, 24));
+    }
+.container-flex-column{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding: 2em;
+	height: 100vh;
+}
